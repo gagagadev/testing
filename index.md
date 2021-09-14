@@ -2,7 +2,7 @@
 <canvas id="canvas" width="150" height="150"></canvas>
 <script src="draw.js"></script>
 
-You can use the [editor on GitHub](https://github.com/gagagadev/testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+YYou can use the [editor on GitHub](https://github.com/gagagadev/testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
