@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+<canvas id="canvas" width="150" height="150"></canvas>
+<script src="draw.js"></script>
 
 You can use the [editor on GitHub](https://github.com/gagagadev/testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
